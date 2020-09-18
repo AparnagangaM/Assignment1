@@ -1,0 +1,55 @@
+header{
+    margin-top: 20px;
+}
+.menu{
+    margin-left: 450px;
+    width: 500px;
+    height: 30px;
+    margin-top: -40px;
+}
+span{
+    padding: 15px;
+}
+.searchtab{
+    margin-left: 400px;
+    margin-top: -25px;
+    border: none;
+}
+.nav{
+    margin-top: 15px;
+    width: 100%;
+    height: 250px;
+    background-color: #334f5d;
+}
+.readmore{
+    width: 130px;
+    height: 50px;
+    background-color: #1c6cdd;
+    color: white;
+    border-color: #1c6cdd;
+    
+}
+.nav-content{
+    padding: 20px;
+    margin-left: 100px;
+}
+.main-content{
+    width: 100%;
+    height: 300px;
+    background-color: whitesmoke;
+}
+table{
+    background-color: white;
+}
+.statement{
+    background-color: #334f5d;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    color:white;
+}
+.footer{
+    background-color: #35383a;
+    width: 100%;
+    height: 200px;   
+}
